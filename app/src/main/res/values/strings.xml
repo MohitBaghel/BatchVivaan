@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vivvan1</string>
+    <string name="Android"> Android App Dev</string>
+    <string name="welcome">Welcome, Android App Dev</string>
+    <string name="calculate_"><u>Calculate Your BMI</u></string>
+    <string name="calculate">Calculate</string>
+    <string name="health">You are Healthy</string>
+    <string name="location">Location</string>
+    <string name="update">Updated at</string>
+    <string name="clear_sky">Clear Sky</string>
+</resources>
